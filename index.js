@@ -1,7 +1,7 @@
 const express = require("express"); //Import the express dependency
 const path = require("path");
 const app = express(); //Instantiate an express app, the main work horse of this server
-const port = 3000; //Save the port number where your server will be listening
+const port = 3001; //Save the port number where your server will be listening
 
 //built in middleware
 // console.log(path.join(__dirname, "Profile"));
